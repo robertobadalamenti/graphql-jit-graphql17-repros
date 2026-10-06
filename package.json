@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "graphql": "17.0.2",
-    "graphql-jit": "0.9.0"
+    "graphql-jit": "0.8.9"
   }
 }
